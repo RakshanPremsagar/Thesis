@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-15T14:10:00.568Z" agent="5.0 (X11)" etag="nCkcbj-0aikM5jkjUQcO" version="14.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-15T14:11:31.615Z" agent="5.0 (X11)" etag="Lie9O54e3AYSR12esM7v" version="14.3.1" type="github">
   <diagram id="3hPxVYJImWLscZgYbSC4" name="Page-1">
     <mxGraphModel dx="1350" dy="748" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -103,7 +103,7 @@
         <mxCell id="DC02iXN6waR2BpefgzYk-25" value="DiscoveryEndpoint" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="460" y="530" width="115" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="DC02iXN6waR2BpefgzYk-26" value="SessionEndoint" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="DC02iXN6waR2BpefgzYk-26" value="SessionEndpoint" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="580" y="530" width="115" height="20" as="geometry" />
         </mxCell>
       </root>
