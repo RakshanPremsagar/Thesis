@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-25T09:15:23.420Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36 Edg/89.0.774.57" etag="a_WpwB2ut-58ZBixtys9" version="14.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-25T09:18:47.512Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36 Edg/89.0.774.57" etag="F0HVTnh6XifAVXiBnw6f" version="14.5.1" type="github">
   <diagram id="oxk_tOpqfbq7FE2mUn5F" name="Page-1">
-    <mxGraphModel dx="1707" dy="965" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1024" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -28,9 +28,6 @@
         <mxCell id="Qxlry1pQBffcThutz0jx-8" value="Server" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="700" y="170" width="90" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Qxlry1pQBffcThutz0jx-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="225" y="350" width="320" height="180" as="geometry" />
-        </mxCell>
         <mxCell id="Qxlry1pQBffcThutz0jx-10" value="LDS-ME" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="245" y="360" width="90" height="50" as="geometry" />
         </mxCell>
@@ -38,7 +35,7 @@
           <mxGeometry x="245" y="460" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Qxlry1pQBffcThutz0jx-12" value="Client" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="405" y="360" width="90" height="50" as="geometry" />
+          <mxGeometry x="425" y="360" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Qxlry1pQBffcThutz0jx-13" value="mDNS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="280" width="680" height="20" as="geometry" />
@@ -125,7 +122,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Qxlry1pQBffcThutz0jx-43" value="Register" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="295" y="420" width="40" height="20" as="geometry" />
+          <mxGeometry x="240" y="420" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Qxlry1pQBffcThutz0jx-46" value="FindServers:D" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="365" y="360" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Qxlry1pQBffcThutz0jx-47" value="FindServersOnNetwork:&lt;br&gt;A,B,C,D" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="315" y="420" width="145" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
