@@ -1,1 +1,40 @@
-<mxfile host="app.diagrams.net" modified="2021-03-26T09:40:30.492Z" agent="5.0 (X11)" version="14.5.1" etag="tOUc3i9oOIdM5Gg4Il-_" type="github"><diagram id="jT_l8ckEZHbce0fqYSEp">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-03-26T09:51:01.537Z" agent="5.0 (X11)" etag="ECjzz-3-eBDvvyBDzgjf" version="14.5.1" type="github">
+  <diagram id="jT_l8ckEZHbce0fqYSEp" name="Page-1">
+    <mxGraphModel dx="1350" dy="748" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="dhdDI4MqhT0ufMXGGtVa-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="100" width="320" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="dhdDI4MqhT0ufMXGGtVa-2" value="Header Files" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="150" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dhdDI4MqhT0ufMXGGtVa-4" value="Call the FindServersOnNetwork API" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="190" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dhdDI4MqhT0ufMXGGtVa-5" value="Format the Output" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="230" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dhdDI4MqhT0ufMXGGtVa-6" value="Extract HostName from URL" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="270" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dhdDI4MqhT0ufMXGGtVa-7" value="Extract IP and check for connection" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="310" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dhdDI4MqhT0ufMXGGtVa-8" value="Display message based on connection check" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="350" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dhdDI4MqhT0ufMXGGtVa-9" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;direction=west;" vertex="1" parent="1">
+          <mxGeometry x="480" y="275" width="20" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="dhdDI4MqhT0ufMXGGtVa-10" value="&lt;div&gt;Network&lt;/div&gt;&lt;div&gt;Failure Check&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="520" y="320" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="dhdDI4MqhT0ufMXGGtVa-12" value="Client Application" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="375" y="110" width="110" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
