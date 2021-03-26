@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-26T10:49:06.882Z" agent="5.0 (X11)" etag="4YtXOo6G4-XwIPbm0Z-j" version="14.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-26T10:50:20.937Z" agent="5.0 (X11)" etag="07t5VuWtQ7L-jvGJR94Y" version="14.5.1" type="github">
   <diagram id="xboQbn7zSZz6xgKjj3-N" name="Page-1">
     <mxGraphModel dx="1350" dy="804" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -97,7 +97,7 @@
         <mxCell id="EpsKhu_LqGXWzAJzYY9--23" value="RegisterServer2 with new Capabilties" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="510" y="720" width="80" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="EpsKhu_LqGXWzAJzYY9--24" value="Capability[1] = &quot;Available&quot;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="EpsKhu_LqGXWzAJzYY9--24" value="&lt;div&gt;Capability[1] &lt;br&gt;&lt;/div&gt;&lt;div&gt;= &quot;Available&quot;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="660" y="660" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="EpsKhu_LqGXWzAJzYY9--25" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
