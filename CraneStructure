@@ -1,1 +1,34 @@
-<mxfile host="app.diagrams.net" modified="2021-03-26T08:46:49.164Z" agent="5.0 (X11)" version="14.5.1" etag="z9DYllmEqM8_WLEV44yo" type="github"><diagram id="Eb2G2TPfTHFK2kLdyEOK">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-03-26T08:57:54.952Z" agent="5.0 (X11)" etag="OMxRYpwqjCzzAX2CgZWx" version="14.5.1" type="github">
+  <diagram id="Eb2G2TPfTHFK2kLdyEOK" name="Page-1">
+    <mxGraphModel dx="1350" dy="748" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Sc1w476CRAnRka2JeV4U-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="90" width="270" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="Sc1w476CRAnRka2JeV4U-2" value="Header Files" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="140" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Sc1w476CRAnRka2JeV4U-5" value="Configuration Information with Capability identifiers " style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="190" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Sc1w476CRAnRka2JeV4U-6" value="Periodic Registration to LDS-ME" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="240" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Sc1w476CRAnRka2JeV4U-7" value="Run the Server until any Interrupt" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="290" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Sc1w476CRAnRka2JeV4U-9" value="Monitor Session Count" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="340" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Sc1w476CRAnRka2JeV4U-10" value="Deregister and Register again with new Capabilties upon Session Count change" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="265" y="390" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Sc1w476CRAnRka2JeV4U-11" value="Crane Server Application" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="305" y="100" width="160" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
