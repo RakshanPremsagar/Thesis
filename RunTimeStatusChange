@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-26T10:34:31.015Z" agent="5.0 (X11)" etag="VqKTb-UxBNo1i-KlWzdP" version="14.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-26T10:35:22.318Z" agent="5.0 (X11)" etag="8aJbDIVDf_Ad8_r-hzYh" version="14.5.1" type="github">
   <diagram id="5BCbbk__Gu6qS7Z1znau" name="Page-1">
     <mxGraphModel dx="1350" dy="804" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -99,6 +99,15 @@
         </mxCell>
         <mxCell id="0BCM-1iWTFiyV_dluQBM-27" value="Capability[1] = &quot;Available&quot;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="550" y="660" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="D2hzv_jKRfelzXTA40DS-6" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="670" y="660" as="sourcePoint" />
+            <mxPoint x="670" y="710" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="D2hzv_jKRfelzXTA40DS-7" value="Time" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="680" y="670" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
