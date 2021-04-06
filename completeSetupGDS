@@ -1,1 +1,172 @@
-<mxfile host="app.diagrams.net" modified="2021-04-06T09:04:19.824Z" agent="5.0 (X11)" version="14.5.7" etag="hFXwg9dwiqJBMOV_jIKx" type="github"><diagram id="h_94lIyoyGnS9D6o7FJY">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-04-06T09:08:42.628Z" agent="5.0 (X11)" etag="o3KZaEzkEg04K4wKAB6v" version="14.5.7" type="github">
+  <diagram id="h_94lIyoyGnS9D6o7FJY" name="Page-1">
+    <mxGraphModel dx="1350" dy="748" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="vzE0wW8_hySNTh_bzI3r-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="150" width="180" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="vzE0wW8_hySNTh_bzI3r-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="150" width="180" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="vzE0wW8_hySNTh_bzI3r-3" value="GDS" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="290" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vzE0wW8_hySNTh_bzI3r-4" value="Server" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="490" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vzE0wW8_hySNTh_bzI3r-5" value="" style="endArrow=none;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="vzE0wW8_hySNTh_bzI3r-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="350" y="740" as="sourcePoint" />
+            <mxPoint x="460" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vzE0wW8_hySNTh_bzI3r-6" value="" style="endArrow=none;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="vzE0wW8_hySNTh_bzI3r-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="550" y="740" as="sourcePoint" />
+            <mxPoint x="549.5" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vzE0wW8_hySNTh_bzI3r-7" value="HOST A" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="330" y="160" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vzE0wW8_hySNTh_bzI3r-8" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="550" y="330" as="sourcePoint" />
+            <mxPoint x="350" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vzE0wW8_hySNTh_bzI3r-9" value="&lt;div&gt;gatewayServerUri&lt;/div&gt;&lt;div&gt;=&lt;/div&gt;&lt;div&gt;&quot;Starting&quot;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="585" y="320" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vzE0wW8_hySNTh_bzI3r-10" value="External Dummy Client ( Prosys vendor)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vzE0wW8_hySNTh_bzI3r-11" value="" style="endArrow=classic;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="vzE0wW8_hySNTh_bzI3r-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="410" y="420" as="sourcePoint" />
+            <mxPoint x="550" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vzE0wW8_hySNTh_bzI3r-12" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="550" y="470" as="sourcePoint" />
+            <mxPoint x="350" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vzE0wW8_hySNTh_bzI3r-13" value="Deregister from GDS" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="410" y="440" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vzE0wW8_hySNTh_bzI3r-14" value="&lt;div&gt;gatewayServerUri&lt;/div&gt;&lt;div&gt;=&lt;/div&gt;&lt;div&gt;&quot;Busy&quot;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="585" y="500" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vzE0wW8_hySNTh_bzI3r-15" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="550" y="530" as="sourcePoint" />
+            <mxPoint x="350" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vzE0wW8_hySNTh_bzI3r-16" value="RegisterServer" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="395" y="530" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vzE0wW8_hySNTh_bzI3r-17" value="Forms a session" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="560" y="410" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vzE0wW8_hySNTh_bzI3r-18" value="External Dummy Client ( Prosys vendor)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vzE0wW8_hySNTh_bzI3r-19" value="Ends the session" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="580" y="590" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vzE0wW8_hySNTh_bzI3r-20" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="550" y="640" as="sourcePoint" />
+            <mxPoint x="350" y="640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vzE0wW8_hySNTh_bzI3r-21" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="550" y="710" as="sourcePoint" />
+            <mxPoint x="350" y="710" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vzE0wW8_hySNTh_bzI3r-22" value="&lt;div&gt;gatewayServerUri&lt;/div&gt;&lt;div&gt;=&lt;/div&gt;&amp;nbsp;&quot;Available&quot;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="560" y="670" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vzE0wW8_hySNTh_bzI3r-23" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="680" y="670" as="sourcePoint" />
+            <mxPoint x="680" y="720" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vzE0wW8_hySNTh_bzI3r-24" value="Time" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="680" y="680" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vzE0wW8_hySNTh_bzI3r-25" value="HOST B" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="520" y="160" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vzE0wW8_hySNTh_bzI3r-26" value="RegisterServer" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="390" y="340" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vzE0wW8_hySNTh_bzI3r-27" value="Deregister from GDS" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="405" y="610" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vzE0wW8_hySNTh_bzI3r-28" value="RegisterServer" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="395" y="710" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vzE0wW8_hySNTh_bzI3r-29" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="150" width="180" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="vzE0wW8_hySNTh_bzI3r-30" value="Client" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="90" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vzE0wW8_hySNTh_bzI3r-31" value="HOST C" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="125" y="160" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vzE0wW8_hySNTh_bzI3r-33" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="150" y="740" as="sourcePoint" />
+            <mxPoint x="150" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vzE0wW8_hySNTh_bzI3r-34" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="150" y="370" as="sourcePoint" />
+            <mxPoint x="350" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vzE0wW8_hySNTh_bzI3r-35" value="FindServers" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="190" y="340" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vzE0wW8_hySNTh_bzI3r-36" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="350" y="390" as="sourcePoint" />
+            <mxPoint x="150" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vzE0wW8_hySNTh_bzI3r-37" value="List of&amp;nbsp; Servers with status and network information" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="410" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vzE0wW8_hySNTh_bzI3r-42" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="150" y="570" as="sourcePoint" />
+            <mxPoint x="350" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vzE0wW8_hySNTh_bzI3r-43" value="FindServers" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="185" y="540" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vzE0wW8_hySNTh_bzI3r-44" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="350" y="590" as="sourcePoint" />
+            <mxPoint x="150" y="590" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vzE0wW8_hySNTh_bzI3r-45" value="List of&amp;nbsp; Servers with updated status and network information" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="195" y="610" width="110" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
